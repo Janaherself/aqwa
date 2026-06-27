@@ -1,8 +1,8 @@
-# 💪 AQWA – "Strong" Gym Management System
+# 💪 AQWA – Gym Management System
 
 A full-stack gym management platform built to help gym staff manage members, subscriptions, offers, and progress tracking from one clean dashboard.
 
-> AQWA  in Arabic means stronger in English, which is what this platform is getting in each update! 💪
+> AQWA in Arabic means stronger in English, which is what this platform is getting in each update! 💪
 
 ---
 
