@@ -17,16 +17,6 @@ This repository serves as a central overview of the project and its architecture
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-aqwa/
-├── README.md          # Project overview and documentation
-└── docs/              # Optional screenshots, diagrams, and assets
-```
-
----
-
 ## 🔗 Project Repositories
 
 | Repository | Description |
